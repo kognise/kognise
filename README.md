@@ -6,4 +6,4 @@ With that said here's a cool animated thing that shows stats or something:
 
 ![](https://github-readme-stats.vercel.app/api?username=kognise&show_icons=true&hide_border=true&count_private=true)
 
-*Much wow, 6.2k stars.* Anyways right now I'm working on an email app, you should [check that out!](https://www.producthunt.com/upcoming/punct) Bye :)
+*Much wow, 6.4k stars.* Anyways right now I'm working on an email app, you should [check that out!](https://www.producthunt.com/upcoming/punct) Bye :)
