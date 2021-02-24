@@ -1,4 +1,4 @@
-## 👋 Hey hi, I'm Felix!
+## 👋 Hey hi, I'm Kognise!
 
 Ever since GitHub added profile READMEs they've been overused, push important content down, and get kinda monotonous.
 
