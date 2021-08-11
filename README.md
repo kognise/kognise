@@ -1,7 +1,3 @@
-⚠️ **I'm gone on adventures until early August!** If you want to get in touch, DM me on Discord at `Kognise#6356` or on Slack and I'll get to you earlier when I'm back.
-
----
-
 ## 👋 Hey hi, I'm Kognise!
 
 Ever since GitHub added profile READMEs they've been overused, push important content down, and get kinda monotonous.
