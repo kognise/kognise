@@ -1,3 +1,5 @@
+> **Live in New York?** Check out [the hackathon I'm running in November](https://webjam.nyc/) 😄
+
 ## 👋 Hey hi, I'm Kognise!
 
 Ever since GitHub added profile READMEs they've been overused, push important content down, and get kinda monotonous.
