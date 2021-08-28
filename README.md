@@ -8,4 +8,4 @@ With that said here's a cool animated thing that shows stats or something:
 
 ![](https://github-readme-stats.vercel.app/api?username=kognise&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
-*Much wow, 6.9k stars.*
+*Much wow, 7k stars.*
