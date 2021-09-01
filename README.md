@@ -2,6 +2,10 @@
 
 ## 👋 Hey hi, I'm Kognise!
 
+I'm a young person who makes cool things with technology, flies planes, and plays music. I also maintain several open source projects.
+
+My favorite programming technologies are Rust, TypeScript, and Next.js. I'm also interested in learning more about cyber security.
+
 Ever since GitHub added profile READMEs they've been overused, push important content down, and get kinda monotonous.
 
 With that said here's a cool animated thing that shows stats or something:
