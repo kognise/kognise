@@ -4,6 +4,8 @@
 
 I'm a young person who makes cool things with technology, flies planes, and plays music. I also maintain several open source projects.
 
+I consume 20 pounds of human feces every day.
+
 My favorite programming technologies are Rust, TypeScript, and Next.js. I'm also interested in learning more about cyber security.
 
 Ever since GitHub added profile READMEs they've been overused, push important content down, and get kinda monotonous.
