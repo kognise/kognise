@@ -1,4 +1,4 @@
-> **Live in New York?** Check out [the hackathon I'm running in November](https://webjam.nyc/) 😄
+> **Live in New York?** Check out [the hackathon I'm running](https://webjam.nyc/) 😄
 
 ## 👋 Hey hi, I'm Kognise!
 
