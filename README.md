@@ -1,5 +1,3 @@
-> **Live in New York?** Check out [the hackathon I'm running](https://webjam.nyc/) 😄
-
 ## 👋 Hey hi, I'm Kognise!
 
 I'm a young person who makes cool things with technology, flies planes, and plays music. I also maintain several open source projects.
