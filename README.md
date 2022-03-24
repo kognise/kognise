@@ -1,4 +1,4 @@
-[➡️ 💖](mailto:hi@kognise.dev)
+[🌃 💖](mailto:hi@kognise.dev)
 
 Hi! People tend to call me by the moniker kognise.
 
