@@ -1,7 +1,7 @@
 hi. i go by kognise. i...
 
 - create things with computers
-  - love rust and typescript
+  - love typescript and rust
   - know plenty of other things that i use less frequently
   - like playing with new technology
   - want to learn more about cyber security
