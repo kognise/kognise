@@ -1,10 +1,10 @@
-hi! 💖 people call me kognise on the internet. i...
+[💖 💖 💖 💖 💖 💖 💖](https://github.com/kognise/overengineering/)
+
+hi! people call me kognise on the internet. i...
 
 - create things with computers
   - love typescript and rust
-  - know plenty of other things that i use less frequently
-  - like playing with new technology
-  - want to learn more about cyber security
+  - like learning new things
   - sometimes do open source stuff
 - do music
   - make electronic music with ableton, reaper, max, pd
