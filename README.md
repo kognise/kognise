@@ -1,16 +1,10 @@
-[💖 💖 💖 💖 💖 💖 💖](https://github.com/kognise/overengineering/)
+[💖 💖 💖 💖 💖 💖 💖](mailto:hi@kognise.dev)
 
-hi! people call me kognise on the internet. i...
+Hi! People tend to call me by the moniker kognise.
 
-- create things with computers
-  - love typescript and rust
-  - like learning new things
-  - sometimes do open source stuff
-- do music
-  - make electronic music with ableton, reaper, max, pd
-  - play cello
-  - compose acoustic stuff
-- fly planes
-  - working on my ppl
+I'm a long-time maker and doer of things at the intersection of technology, music, and aviation.
 
-you can find me [on my website](https://kognise.dev/) and also in the infinite void of nothingness. you can email me at hi@kognise.dev.
+As a professional jack-of-all-trades-master-of-some I have experience with the New Thing, but also the Old Thing.
+
+You can find me [on my website](https://kognise.dev/) and also in the infinite void of nothingness. 
+
