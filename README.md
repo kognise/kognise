@@ -1,7 +1,7 @@
-**Hi! People tend to call me kognise.**
+**hi! people tend to call me kognise.**
 
-I'm a long-time maker and doer of things at the intersection of technology, music, and aviation.
+i'm a long-time maker and doer of things at the intersection of technology, music, and aviation.
 
-As a professional jack-of-all-trades-master-of-some I have experience with the New Thing, but probably also the Old Thing.
+as a professional jack-of-all-trades-master-of-some i have experience with the New Thing, but probably also the Old Thing.
 
-You can find me [on my website](https://kognise.dev/) and also in the infinite void of nothingness. [🌃 💖](mailto:hi@kognise.dev)
+if you wish to find me, you can look on [my website](https://kognise.dev/) and in the void of space. [🌃 💖](mailto:hi@kognise.dev)
