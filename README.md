@@ -1,3 +1,6 @@
+```math
+```
+
 **hi! people tend to call me kognise.**
 
 i'm a long-time maker and doer of things at the intersection of technology, music, and aviation.
