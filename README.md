@@ -12,7 +12,7 @@ if you wish to find me, you can look on [my website](https://kognise.dev/) and i
 ```math
 \ce{$\unicode[x; pointer-events: none; z-index: -50; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background-size: 200px; background-color: #ff00ff; background-image: url(https://raw.githubusercontent.com/kognise/kognise/master/discrete.svg); background-repeat: repeat repeat;]{x0000}$}
 
-\ce{$\unicode[x; pointer-events: none; z-index: 999; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.5; background-blend-mode: lighten; background: red;]{x0000}$}
+\ce{$\unicode[x; pointer-events: none; background-blend-mode: lighten; z-index: 9999; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.2; filter: blur(4px); background: repeat center/100% url('https://github.com/rebane2001/rebane2001/blob/mane/3026829.gif?raw=true')]{x0000}$}
 ```
 
 <sub><em>my github contribution graph is generated from neuralink's internal gitlab by an automated script that can only replicate commits. i do a lot more code review than it shows.</em></sub>
